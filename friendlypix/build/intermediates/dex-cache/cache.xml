@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/1fd2b754b742c8519987312a9cd673568af1a013/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_1ee5952ca079751c63e27500ff142f0659fb4bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/4a327546bc54193661ef12ef1e01f44365ffc7a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_600fa2082879c36c5508c1fde37ca2ec3739f970/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/877160e28112f5c39a3a8b8009332a82532dfeb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_3ac4e5711774aff910ef2983133c9ad6dd75ff13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/support-annotations-23.4.0_d8bcbb1402b57f7131626aa6241434dd1c96d4c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/1738589942ef4b09b2cf3cb1752ba35db409c03f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_6084106065077a75d038bc53480c6b44538aa797/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/54b530a362f647f9873f1c2abb6bb596e9d1e591/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_27ee35f8a01d1d857328d5ae910bea91cf1c33e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/b1af2fbcca027875d1fa0542547af175db191c79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_240744acd5cc6150c46cf8d0a90f861949126d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/79d24e184c7b517dbeb3f95436e8e4d815680c9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_22defbce4d25bb2363bc5f5c4da1e2e49045b158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/67eb99e3fa455f1f88083645843e9642b7c0ed67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_ee7cf97d099590014947c1b6f6866153909ab50a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/4de95bc6a8428f24758e059bc2fa4c53461736d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_965fe0d919d03613ecb421b2dfe2722989e39730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/7d4caa613dccf4a75305a517f961a40ae8c0b3d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_a398c10267b31099ab3cd47ba90f8b6a28c25379/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/glide-3.6.0_8fa59b7af441333075d239dce451382f6920476b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/incremental-runtime-classes/dev2/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10000/instant-run_63b7c37068b9ca9ddcdd2efe00204e815fc31139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/086e3adfb6ac8d0fb81824a3c1da568d54d04b7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_27e02c4c0ecc476765e8b0175af0263821095982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/1773262fa8ab8e6237ef1189a505a9040505d3b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_5792d6bb3b59d3482381aadbaad89ce683287fc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/d8ee59fae448230b10062a7b865402412acebbed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_2af50d242adac2a8e7351c31b05884e9503357ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.3/f12e6cd05cbaecd74d16e685d45b627732939e42/jackson-databind-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f12e6cd05cbaecd74d16e685d45b627732939e42">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/jackson-databind-2.7.3_af19b4905a9f83ed86b84636312c077f8447c3aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/ba1f8511e8de1e3ce8e8e6d4ded037a26113a6af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_bbd77ba4b4c6aaefb5d7a6071edae4e11e4c5b33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/b20163e0b294eb613f306c64b34fa627759baf95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_d7a46e3e9bdb31052f12dfe868bcbcd68a9e5021/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/2ecd2b55621f027af4807d925e5209e04251c2af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_1d31e3debe36d0fc7218daeffe70fad2011fdc5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/1edd17682508bd4b7c289b1f49da6dbffcfeb1e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_e1d74442f68c02c41c0848af8f7452713949bb4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/27b75bf4fa3e7aee7ea1d960a6e0181d88b052a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_8592cc2d9223de13d12b2f51caa1b85b4fd62170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.3.1/98e2eefcf524f757188f172642ecf5e2c7421947/httpcore-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98e2eefcf524f757188f172642ecf5e2c7421947">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/httpcore-4.3.1_db440a7e4b888071ef895bd1cc1b3f4dff9cfc54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/incremental-classes/dev2/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5cf6d4d643123a94f3e81b20ee4efd0dc99b853">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10000/instant-run-bootstrap_ee083f0385cc6eaef5fb00f434d0bfd554119531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/jackson-annotations-2.7.0_86c0dfc651336e645a25edb3f0939651b790f15d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/aaf4e617f0aa408ca0ed8424878d08a36bb41ce1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_8c90f46e49d0bdd1ddc1c54d46a6453cbd1fa417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/6cbbfd36f80f4b1e30831bf5ce9a235f83a067f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_8ed6bcc390ea4303b5dd10b2f832c7e9bf86ba74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/22faf60ffe89f83f08549b452250a477839f6d4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_cf1cfabd103bb293b80f85f107faef6bbd9f49b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/d199cd04370858f7c3817f43ebc72c74f71fabfe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_e9a64a79eee540d807487a1c8117fb52170ed6b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/b1af2fbcca027875d1fa0542547af175db191c79/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/internal_impl-23.4.0_7fb628cb334ce1d2cf69e637c9ca3e80c9ef15e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.3/1499b854ae9f370409792db5af1b552dc7d9682f/jackson-core-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/jackson-core-2.7.3_132572331137320047def490da2be1161475034a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/6fdd29260a96c1578cf9447b10ac76385cf793f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_9e83af38db13221bca20e4baf1e08b8576471ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/157d6cb6ca6040ae8c6945fd69872796fca61699/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_ae43684e94efd8392956e11026ad1eb80ccb8ee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/6ba20549d2b0a4b6c52db5558bf33832f8432880/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_e7520206b6bca5e50ca1fcae48e44832b4ebc1c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/d75d5e94a436f63be0ef5a95e3ffabf7e839310d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_6126fc7a519264475aa87c06e501cf2724b169c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3.1/f7899276dddd01d8a42ecfe27e7031fcf9824422/httpmime-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7899276dddd01d8a42ecfe27e7031fcf9824422">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/httpmime-4.3.1_d674217eebde5578eb7171f1a26194cb5629fce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/7847ac3e30206f6acfb5515701379e7451c8eb18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_e2201b6c387c3e883dcc6201ae04fac247fecb2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/216aec978a01c25f289ef923b6bdcb650b7289f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_8993f499b6d1b855b885b91324185d3b75503403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/f1e9214ea8c60110f91087d44a482fb2dcbf35fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_0526187b8f6dc033cb7f2b9972cc0fd258f191ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tom/.android/build-cache/796dc20dc0523df4ffe45c8e8d7e76207395c14e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/tom/Downloads/friendlypix-android-master/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/classes_c832a97f79f1233e20d34e57469150935be727e8/classes.dex" />
+    </item>
+
+</items>
